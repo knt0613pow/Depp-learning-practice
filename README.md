@@ -23,7 +23,7 @@
 
 
 #### Object Detection
-1. R-CNN
+1. R-CNN [[pdf]](https://arxiv.org/abs/1311.2524)
 2. Fast R-CNN
 3. Faster R-CNN
 --------------
